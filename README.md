@@ -20,5 +20,12 @@ This project aims to diagnose the deadly disease with the help of X - Ray Datase
 1.CNN
 2.VGG-16
 ```
+## Dataset Link
 
+```bash
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+```
 
+## X - Ray Images
+
+<img src="images\pneumonia.png" alt="pneumonia">
